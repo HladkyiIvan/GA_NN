@@ -10,7 +10,8 @@ The answer to this question you can find in **GA.ipynb**. There is a simple GA r
 
 ## First step - CNN traning
 
-Fist of all we need to train a model. **CNN_training.ipynb** notebook contains steps of CNN classifier training, its main goal is to distinguish cats picture from random white noise. **Note:** This notebook also contains a ResNet-based model training and CNN debugging visualization technique.
+Fist of all we need to train a model. **CNN_training.ipynb** notebook contains steps of CNN classifier training, its main goal is to distinguish cats picture from random white noise. 
+**Note:** This notebook also contains a ResNet-based model training and CNN debugging visualization technique.
 
 ## Second step - GA creation
 
