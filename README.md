@@ -1,6 +1,8 @@
 # GA + NN (Genetic Algorithm with fitness function represented by CNN)
 
-The main idea of this research is to combine **genetic algorithms (GA)** with **neural networks (NN)** by setting a NN as a fitness function of the GA. In this case, I decided to try CNN and images of cats. The final result of this work should be a GA which uses CNN as a fitness function to generate pictures of cats from random white noise. **!WARNING! WORK IS STILL IN PROGRESS !WARNING!**  
+The main idea of this research is to combine **genetic algorithms (GA)** with **neural networks (NN)** by setting a NN as a fitness function of the GA. In this case, I decided to try CNN and images of cats. The final result of this work should be a GA which uses CNN as a fitness function to generate pictures of cats from random white noise. 
+
+**!WARNING! WORK IS STILL IN PROGRESS !WARNING!**  
 
 ## What is GA? 
 
